@@ -145,6 +145,7 @@ SELECT * FROM return_status;
 - **Delete**: Removed records from the `members` table as needed.
 
 **Project Tasks**
+
 **Task 1. Create a New Book Record**
 -- "978-1-60129-456-2', 'To Kill a Mockingbird', 'Classic', 6.00, 'yes', 'Harper Lee', 'J.B. Lippincott & Co.')"
 
@@ -548,5 +549,6 @@ Description: Write a CTAS query to create a new table that lists each member and
 ## Conclusion
 
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+
 
 
